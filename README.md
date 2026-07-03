@@ -21,9 +21,10 @@ Open a terminal, navigate to the backend folder, and run:
 cd backend
 npm install
 node server.js
-
+```
 ### 2. Start the Frontend 
 Open a terminal, navigate to the backend folder, and run:
+```bash
 cd frontend
 npm install
 npm run dev
